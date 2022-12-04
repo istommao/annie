@@ -3,9 +3,9 @@ package bilibili
 import (
 	"testing"
 
-	"github.com/iawia002/annie/config"
-	"github.com/iawia002/annie/downloader"
-	"github.com/iawia002/annie/test"
+	"github.com/istommao/annie/config"
+	"github.com/istommao/annie/downloader"
+	"github.com/istommao/annie/test"
 )
 
 func TestBilibili(t *testing.T) {

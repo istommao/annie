@@ -1,9 +1,9 @@
 package extractors
 
 import (
-	"github.com/iawia002/annie/downloader"
-	"github.com/iawia002/annie/parser"
-	"github.com/iawia002/annie/request"
+	"github.com/istommao/annie/downloader"
+	"github.com/istommao/annie/parser"
+	"github.com/istommao/annie/request"
 )
 
 // Bcy download function

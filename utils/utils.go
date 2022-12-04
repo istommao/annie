@@ -13,8 +13,8 @@ import (
 
 	"github.com/fatih/color"
 
-	"github.com/iawia002/annie/config"
-	"github.com/iawia002/annie/request"
+	"github.com/istommao/annie/config"
+	"github.com/istommao/annie/request"
 )
 
 // MAXLENGTH Maximum length of file name

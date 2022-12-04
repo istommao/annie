@@ -3,10 +3,10 @@ package extractors
 import (
 	"encoding/json"
 
-	"github.com/iawia002/annie/downloader"
-	"github.com/iawia002/annie/parser"
-	"github.com/iawia002/annie/request"
-	"github.com/iawia002/annie/utils"
+	"github.com/istommao/annie/downloader"
+	"github.com/istommao/annie/parser"
+	"github.com/istommao/annie/request"
+	"github.com/istommao/annie/utils"
 )
 
 type instagramEdgeNode struct {

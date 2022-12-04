@@ -7,9 +7,9 @@ import (
 
 	"github.com/PuerkitoBio/goquery"
 
-	"github.com/iawia002/annie/downloader"
-	"github.com/iawia002/annie/request"
-	"github.com/iawia002/annie/utils"
+	"github.com/istommao/annie/downloader"
+	"github.com/istommao/annie/request"
+	"github.com/istommao/annie/utils"
 )
 
 // GetDoc return Document object of the HTML string

@@ -2,9 +2,9 @@
 
 
 [![Codecov](https://img.shields.io/codecov/c/github/iawia002/annie.svg?style=flat-square)](https://codecov.io/gh/iawia002/annie)
-[![Build Status](https://img.shields.io/travis/iawia002/annie.svg?style=flat-square)](https://travis-ci.com/iawia002/annie)
-[![Go Report Card](https://goreportcard.com/badge/github.com/iawia002/annie?style=flat-square)](https://goreportcard.com/report/github.com/iawia002/annie)
-[![GitHub release](https://img.shields.io/github/release/iawia002/annie.svg?style=flat-square)](https://github.com/iawia002/annie/releases)
+[![Build Status](https://img.shields.io/travis/iawia002/annie.svg?style=flat-square)](https://travis-ci.com/istommao/annie)
+[![Go Report Card](https://goreportcard.com/badge/github.com/istommao/annie?style=flat-square)](https://goreportcard.com/report/github.com/istommao/annie)
+[![GitHub release](https://img.shields.io/github/release/iawia002/annie.svg?style=flat-square)](https://github.com/istommao/annie/releases)
 ![homebrew](https://img.shields.io/homebrew/v/annie.svg?style=flat-square)
 [![](https://img.shields.io/badge/telegram-join%20chat-0088cc.svg?longCache=true&style=flat-square)](https://t.me/anniedev)
 
@@ -33,10 +33,10 @@ The following dependencies are required and must be installed separately.
 
 ### Install via `go get`
 
-To install Annie, use `go get`, or download the binary file from [Releases](https://github.com/iawia002/annie/releases) page.
+To install Annie, use `go get`, or download the binary file from [Releases](https://github.com/istommao/annie/releases) page.
 
 ```bash
-$ go get github.com/iawia002/annie
+$ go get github.com/istommao/annie
 ```
 
 ### Homebrew (macOS only)
@@ -452,7 +452,7 @@ Special thanks to [@Yasujizr](https://github.com/Yasujizr) who designed the amaz
 
 ## Authors
 
-Code with ❤️ by [iawia002](https://github.com/iawia002) and lovely [contributors](https://github.com/iawia002/annie/graphs/contributors)
+Code with ❤️ by [iawia002](https://github.com/istommao) and lovely [contributors](https://github.com/istommao/annie/graphs/contributors)
 
 
 ## Similar projects

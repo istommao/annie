@@ -15,9 +15,9 @@ import (
 	"github.com/cheggaaa/pb"
 	"github.com/fatih/color"
 
-	"github.com/iawia002/annie/config"
-	"github.com/iawia002/annie/request"
-	"github.com/iawia002/annie/utils"
+	"github.com/istommao/annie/config"
+	"github.com/istommao/annie/request"
+	"github.com/istommao/annie/utils"
 )
 
 // URLData data struct of single URL

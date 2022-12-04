@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/iawia002/annie/downloader"
-	"github.com/iawia002/annie/request"
-	"github.com/iawia002/annie/utils"
+	"github.com/istommao/annie/downloader"
+	"github.com/istommao/annie/request"
+	"github.com/istommao/annie/utils"
 )
 
 type douyuVideoData struct {

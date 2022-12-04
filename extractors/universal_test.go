@@ -3,8 +3,8 @@ package extractors
 import (
 	"testing"
 
-	"github.com/iawia002/annie/config"
-	"github.com/iawia002/annie/test"
+	"github.com/istommao/annie/config"
+	"github.com/istommao/annie/test"
 )
 
 func TestUniversal(t *testing.T) {

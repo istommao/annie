@@ -3,7 +3,7 @@ package test
 import (
 	"testing"
 
-	"github.com/iawia002/annie/downloader"
+	"github.com/istommao/annie/downloader"
 )
 
 // CheckData check the given data

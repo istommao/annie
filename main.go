@@ -8,11 +8,11 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/iawia002/annie/config"
-	"github.com/iawia002/annie/extractors"
-	"github.com/iawia002/annie/extractors/bilibili"
-	"github.com/iawia002/annie/extractors/youtube"
-	"github.com/iawia002/annie/utils"
+	"github.com/istommao/annie/config"
+	"github.com/istommao/annie/extractors"
+	"github.com/istommao/annie/extractors/bilibili"
+	"github.com/istommao/annie/extractors/youtube"
+	"github.com/istommao/annie/utils"
 )
 
 func init() {

@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/iawia002/annie/downloader"
-	"github.com/iawia002/annie/request"
-	"github.com/iawia002/annie/utils"
+	"github.com/istommao/annie/downloader"
+	"github.com/istommao/annie/request"
+	"github.com/istommao/annie/utils"
 )
 
 type errorData struct {
